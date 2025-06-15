@@ -1,18 +1,23 @@
-Este projeto realiza uma análise completa de dados de máquinas utilizando Python e Pandas. O sistema processa informações de depósitos e distribuição de pontos, fornecendo relatórios detalhados sobre o desempenho operacional de cada equipamento.
+Este projeto realiza uma análise completa de dados de máquinas utilizando Python e Pandas. O sistema processa informações de depósitos e distribuição de pontos, 
+fornecendo relatórios detalhados sobre o desempenho operacional de cada equipamento.
+
 
 🎯 Objetivos
+
 🔍 Identificar todas as máquinas ativas no sistema
 📊 Quantificar o número de operações por máquina
 💰 Calcular o total de pontos distribuídos
 📈 Analisar padrões de uso e performance individual
 
 🛠️ Tecnologias Utilizadas
+
 🐍 Python 
 🐼 Pandas - Manipulação e análise de dados
 📊 Excel - Fonte de dados (.xlsx)
 
 
 🚀 Como Executar
+
 📦 Instalar dependências:
 pip install pandas openpyxl
 
