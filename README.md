@@ -1,5 +1,14 @@
-Este projeto realiza uma análise completa de dados de máquinas utilizando Python e Pandas. O sistema processa informações de depósitos e distribuição de pontos, 
+Este projeto realiza uma análise completa de dados de máquinas utilizando Python e Pandas. O sistema processa informaçõesde depósitos e distribuição de pontos, 
 fornecendo relatórios detalhados sobre o desempenho operacional de cada equipamento.
+
+
+
+
+
+
+
+
+
 
 
 🎯 Objetivos
@@ -26,7 +35,7 @@ Coloque o arquivo Analise_de_Dados.xlsx na mesma pasta do script
 
 
 ▶️ Executar o script:
-  python analise_maquinas.py
+  python Analise_ecoloop.py
 
 
 
